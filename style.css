@@ -1,0 +1,150 @@
+/* style -css */
+
+body {
+    margin: 0;
+}
+
+#section1 {
+    width: auto;
+    background-color: #EEEFF1;
+    padding-top: 80px;
+    padding-bottom: 0;
+    text-align: center;
+    color: black;
+}
+
+#section2 {
+    width: auto;
+    background-color: #01C73C;
+    padding-top: 80px;
+    padding-bottom: 0;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#section3 {
+    width: auto;
+    background-color: #EEEFF1;
+    padding-top: 80px;
+    padding-bottom: 19px;
+    text-align: center;
+    color: black;
+}
+
+#section4 {
+    width: auto;
+    background-color: #EEEFF1;
+    padding-top: 80px;
+    padding-bottom: 0px;
+    text-align: center;
+    
+}
+
+#footer {
+    width: auto;
+    background-color: #01C73C;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* img-style */
+
+#section1 img {
+    width: 300px;
+    filter: drop-shadow(5px 5px 5px grey);
+}
+
+#section2 img {
+    width: 300px;
+    filter: drop-shadow(5px 5px 5px rgb(22, 68, 0));
+}
+
+#section3 img {
+    width: 895px;
+}
+
+#section4 .button-img1 {
+    width: 250px;
+    height: 40px;
+    padding-right: 19px;
+}
+
+#section4 .button-img2 {
+    width: 190px;
+    height: 40px;
+}
+
+#footer img {
+    width: 200px;
+}
+
+/* text-style */
+
+#section1 h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 50px;
+    line-height: 63.4px;
+    font-weight: lighter;
+}
+
+#section1 .text-1-1 {
+    font-weight: bold;
+}
+
+#section1 p {
+    font-size: 24px;
+}
+
+#section1 .text-1-2 {
+    font-family: 'Noto sans KR', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    color: #01C73C;   
+}
+
+#section2 {
+    font-family: 'Noto sans KR', sans-serif;
+    font-size: 35px;
+}
+
+#section2 .text-2-1 {
+    font-weight: bolder;
+}
+
+#section3 {
+    font-family: 'Noto sans KR', sans-serif;
+    font-size: 35px;
+    font-weight: lighter;
+}
+
+#section4 {
+    font-family: 'Noto sans KR', sans-serif;
+}
+
+#section4 p {
+    font-size: 35px;
+    font-weight: lighter;
+}
+
+#section4 h2 {
+    font-size: 55px;
+    font-weight: bold;
+    line-height: 69px;
+}
+
+#section4 h2 .text-4-1 {
+    color: #01C73C;
+}
+
+#footer h2 {
+    font-family: 'Noto sans KR', sans-serif;
+    font-size: 45px;
+    font-weight: lighter;
+}
+
+#footer h2 .text-f-1 {
+    font-size: 55px;
+    font-weight: bolder;
+}
